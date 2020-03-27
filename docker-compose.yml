@@ -2,7 +2,7 @@ version: "3"
 services:
   jupiter:
     container_name: jupiter
-    image: ml3
+    image: notebook
     ports:
       - "8888:8888"
       - "6006:6006"
